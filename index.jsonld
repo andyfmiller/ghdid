@@ -46,5 +46,5 @@
     "verificationMethod": "did:github:andyfmiller#jffc_GKdQrORBDfejIzxDwDT_PPSHvPKMCFhp8Fgu0o",
     "proofPurpose": "assertionMethod",
     "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..RNeV8_RLq0rAg-MuSnd0UT6XqBqov24-ekgkxD3gm8BrjcAHwwRomhx5IY7YMjM7JQn8omeBpTxEchApc6wZAQ"
-  }
+  } 
 }
