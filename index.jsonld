@@ -1,0 +1,50 @@
+{
+  "@context": "https://w3id.org/did/v1",
+  "id": "did:github:andyfmiller",
+  "publicKey": [
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:andyfmiller#e5_irotjhr3n03qBBmkXv0keTCzJRQpDMdh37jHf25k",
+      "controller": "did:github:andyfmiller",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXtq4xRMFK4EEAAoCAwTWyWBNCNbxKfCyxXwFCWEFOV2BDgay2jLOZhUk\r\nDZbMYBnzb7nviDrbe3npae/x/r1hUK+1Z8lGuGJN1gkux4qMzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJe2rjFBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQQU4Qw6kMyMoCrQEAxl2Nwikz0mOL5RvtzT9UjKSj\r\n4mkNNapO7xWwu1NtCpEBAL6EGeAdb2S+Sa4KbeF5Mec/ZZ8LZtJP/bZJPSSf\r\nTOgwzlMEXtq4xRIFK4EEAAoCAwSs50Y3v9yFa9/XxSKulYsNOOzev7g/fidH\r\nKcRlkXCXqyTtsTFLprEGp9Mqy0cYQwjfuVlde5sUUYxog0ndZAbrAwEIB8Jh\r\nBBgTCAAJBQJe2rjFAhsMAAoJEEFOEMOpDMjKMhEBANMOO2gcZa+HfBlSSyQ+\r\nl66BiGBxgmjmWjtPpFSp34YSAQCHvDW1qn4LgEvqLXDdkON77TeVua7+4BJW\r\nsoCeu1dAGg==\r\n=QIG8\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "OpenPgpVerificationKey2019",
+      "id": "did:github:andyfmiller#wmxozAIeHtU9HncTIJdaHD3yoNPoZG7T7vLX_vmflx4",
+      "controller": "did:github:andyfmiller",
+      "publicKeyPem": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v4.10.4\r\nComment: https://openpgpjs.org\r\n\r\nxk8EXtq4xRMFK4EEAAoCAwSOCmqa83Q3x66P0GK2uWrOH/OYRHyqoh8g8N8R\r\nz1EhpXUS8gWfIK8K6FTzHdjvCp0UgnOOx7FMYpWDhS+0gvjgzRdhbm9uIDxh\r\nbm9uQGV4YW1wbGUuY29tPsJ4BBATCAAgBQJe2rjFBgsJBwgDAgQVCAoCBBYC\r\nAQACGQECGwMCHgEACgkQXtZFkXfLsTL1XgEAjnZMZKnyJBgIJQJlgIP7CFZ1\r\nDIwHmj9adoSDuQpvjEAA/2GtJEcoTM3S7zhkYT3pJBW1vwgXGJvhxF/Y8vdg\r\nl18tzlMEXtq4xRIFK4EEAAoCAwRrfWn9G3j2ETbpy5R7SkA2+hQsm/Dnzow7\r\nYqbHcKEAaKn12oyb3KZ70kzYrWWQzEFoHtbujY7LmF4O9YhXm0UjAwEIB8Jh\r\nBBgTCAAJBQJe2rjFAhsMAAoJEF7WRZF3y7EyWqAA+gKA3NjkhMZWt6hw/VqO\r\nbbOJxesuB9L7TPsVC1Jbk0CQAQCujAPVxnHKkwI9HVOcKw0/QX3sR3sh0aph\r\n2zWqzSIqGw==\r\n=3Xo0\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n"
+    },
+    {
+      "type": "Ed25519VerificationKey2018",
+      "id": "did:github:andyfmiller#jffc_GKdQrORBDfejIzxDwDT_PPSHvPKMCFhp8Fgu0o",
+      "controller": "did:github:andyfmiller",
+      "publicKeyBase58": "4LLaJzwbaW8JeujiGhJQTPhJzMcQmk9mhNUeFYGqSe5r"
+    }
+  ],
+  "authentication": [],
+  "service": [],
+  "capabilityDelegation": [
+    "did:github:andyfmiller#jffc_GKdQrORBDfejIzxDwDT_PPSHvPKMCFhp8Fgu0o"
+  ],
+  "capabilityInvocation": [
+    "did:github:andyfmiller#jffc_GKdQrORBDfejIzxDwDT_PPSHvPKMCFhp8Fgu0o"
+  ],
+  "assertionMethod": [
+    "did:github:andyfmiller#jffc_GKdQrORBDfejIzxDwDT_PPSHvPKMCFhp8Fgu0o"
+  ],
+  "keyAgreement": [
+    {
+      "id": "did:github:andyfmiller#zC4NQDX6KBr9MC5Y9AYT1CPo38Jpm4vCESPz4HeLLh4wBp",
+      "type": "X25519KeyAgreementKey2019",
+      "controller": "did:github:andyfmiller",
+      "publicKeyBase58": "4sgW9uVzUQ4kyVAi8xSEEdMq4Yx7MVcwW6mFoFYHxh5c"
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2020-06-05T21:27:33Z",
+    "verificationMethod": "did:github:andyfmiller#jffc_GKdQrORBDfejIzxDwDT_PPSHvPKMCFhp8Fgu0o",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..RNeV8_RLq0rAg-MuSnd0UT6XqBqov24-ekgkxD3gm8BrjcAHwwRomhx5IY7YMjM7JQn8omeBpTxEchApc6wZAQ"
+  }
+}
